@@ -10,4 +10,4 @@ Members:
 George Michoulis - dai16067 / 
 Nikolaos Stefanidis - dai16054 / 
 Dimitris Tourgaidis - dai16057 / 
-Kwstas Tsiwlis - dai16060 / 
+Kwstas Tsiwlis - dai16060 
