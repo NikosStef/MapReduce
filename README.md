@@ -7,7 +7,7 @@ Processing a dataset, which contains the personal data of the citizens of a city
 
 Members:
 
-George Michoulis - dai16067
-Nikolaos Stefanidis - dai16054
-Dimitris Tourgaidis - dai16057
-Kwstas Tsiwlis - dai16060
+George Michoulis - dai16067 / 
+Nikolaos Stefanidis - dai16054 / 
+Dimitris Tourgaidis - dai16057 / 
+Kwstas Tsiwlis - dai16060 / 
